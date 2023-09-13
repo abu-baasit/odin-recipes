@@ -1,0 +1,46 @@
+body {
+    background-color:rgb(250, 235, 215);
+    font-family:Arial,verdana,"Times New Roman",Georgia,Helvetica,sans-serif;
+    font-size: 100%;
+}
+
+h1 {
+    color:Purple;
+    text-align: center;
+}
+
+h2 {
+    color:#0000ff;
+    text-align:center;
+}
+img {
+    height: auto;
+    width:500px;
+}
+ul {
+    list-style: none outside;
+    padding:15px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:visited {
+   color:red;
+   
+}
+
+
+a:hover {
+    color:blueviolet;
+}
+section {
+   border-top: 1px solid gray;
+   padding:10px;
+
+}
+footer {
+    text-align:center;
+    color:blue;
+}
